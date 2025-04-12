@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CrowCrypt
 CrowCrypt é uma aplicação gráfica em Python para criptografar e descriptografar arquivos com segurança. Utiliza a biblioteca `cryptography` com uma interface moderna usando `ttkbootstrap`.
 
